@@ -282,6 +282,7 @@ button {
 .section-title__stage {
   display: inline-block;
   margin-right: 2rem;
+  color: #fff;
 }
 
 .section-title--keycolorlight {
